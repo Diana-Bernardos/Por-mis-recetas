@@ -1,0 +1,22 @@
+{
+    "name": "my-recipe-app-backend",
+    "version": "1.0.0",
+    "description": "Backend for the recipe app",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "recipe",
+        "backend",
+        "express",
+        "mysql"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.11.5"
+    }
+}
